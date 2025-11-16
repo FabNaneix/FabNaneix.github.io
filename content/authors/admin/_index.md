@@ -1,43 +1,45 @@
 ---
 # Display name
-title: Prof. Jane Smith
+title: Dr Fabien Naneix
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Principal Investigator & Lab Director
+role: Principal Investigator & Assistant Professor (Lecturer)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Excellence
-    url: https://www.example.edu/
+  - name: University of Aberdeen
+    url: https://www.abdn.ac.uk/people/fabien.naneix
 
 # Short bio (displayed in user profile at end of posts)
-bio: Leading research in computational biology and machine learning applications to scientific discovery.
+bio: Behavioural neuroscientists focusing on decision-making and adolescence
 
 # Interests to show in About widget
 interests:
-  - Machine Learning & AI
-  - Computational Biology
-  - Drug Discovery
-  - Scientific Computing
-  - Open Science
+  - Behavioural neuroscience
+  - Decision-making, Learning & Memory
+  - Developmental neuroscience
+  - Ingestive behaviours
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computational Biology
-      institution: Stanford University
+    - course: PhD in Neuroscience
+      institution: University of Bordeaux
       year: 2012
-    - course: MS in Computer Science
-      institution: MIT
+    - course: MSc in Neuroscience and Neuropsychopharmacology
+      institution: University of Bordeaux
       year: 2008
-    - course: BS in Bioinformatics
-      institution: UC Berkeley
+    - course: BSc in Cellular Biology and Physiology
+      institution: University of Bordeaux
       year: 2006
+    - course: DUT Biological Engineering
+      institution: University of La Rochelle
+      year: 2005
 
-# Skills
+\# Skills
 skills:
   - name: Technical
     items:
@@ -73,23 +75,24 @@ skills:
 # Social/Academic Networking
 social:
   - icon: hero/envelope
-    link: 'mailto:jane.smith@example.edu'
-  - icon: brands/x
-    link: https://twitter.com/ProfJaneSmith
-    label: Follow me on Twitter
-  - icon: brands/google-scholar
-    link: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: brands/github
-    link: https://github.com/jane-smith-lab
+    link: 'mailto:fabien.naneix@abdn.ac.uk'
+  - icon: custom/bluesky-brands-solid
+    link: https://bsky.app/profile/fabnaneix.bsky.social
+    label: Follow me on BlueSky
   - icon: brands/linkedin
-    link: https://www.linkedin.com/in/prof-jane-smith
+    link: https://www.linkedin.com/in/fabien-naneix-664499346/
   - icon: brands/orcid
-    link: https://orcid.org/0000-0000-0000-0000
+    link: https://orcid.org/my-orcid?orcid=0000-0002-7888-338X
+  - icon: brands/google-scholar
+    link: https://scholar.google.com/citations?user=CNe4fIIAAAAJ&hl=en
+  - icon: brands/github
+    link: https://github.com/FabNaneix
+  
   # Link to a PDF of your resume/CV from the About widget.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: brands/cv
-    link: uploads/cv-jane-smith.pdf
+\  - icon: brands/cv
+\   link: uploads/cv-jane-smith.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -104,7 +107,8 @@ user_groups:
 
 ## About the Lab
 
-Prof. Jane Smith leads the Computational Biology and Machine Learning Lab at the University of Excellence. With over 15 years of experience in interdisciplinary research, she has pioneered novel approaches to understanding biological systems through computational methods.
+The Naneix Lab opened at the Rowett Institute, University of Aberdeen in June 2020 and is part of the “Healthy Lifecourse and Nutrition Neuroscience” research theme.
+Our research is focused on the developmental aspects of the cognitive and neurobiological substrates underlying motivated behaviours, and how these processes are impacted by different early-life (childhood, adolescence) experiences, including unbalanced diets.
 
 ## Research Vision
 

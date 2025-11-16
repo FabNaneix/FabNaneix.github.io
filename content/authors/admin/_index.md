@@ -40,7 +40,7 @@ education:
       year: 2005
 
 # Skills
-skills:
+\skills:
   - name: Technical
     items:
       - name: Python
@@ -73,7 +73,7 @@ skills:
         icon: hero/academic-cap
 
 # Social/Academic Networking
-social:
+Follow us:
   - icon: hero/envelope
     link: 'mailto:fabien.naneix@abdn.ac.uk'
   - icon: custom/bluesky-brands-solid
@@ -112,7 +112,7 @@ Our research is focused on the developmental aspects of the cognitive and neurob
 
 ## Research Vision
 
-Our lab focuses on developing and applying cutting-edge machine learning techniques to solve complex biological problems. We work at the intersection of computer science, biology, and medicine to:
+The Naneix Lab is investigating 1) the cognitive and neurobiological processes underlying motivated behaviours, 2) how they change throughout development, and 3) how early life experiences such as unbalanced diets may affect cognitive/brain development and lead to pathological states.
 
 - **Predict protein structures and functions** using deep learning models
 - **Discover new drug targets** through computational screening
@@ -132,4 +132,4 @@ Prof. Smith has mentored over 30 PhD students and postdoctoral researchers, many
 
 ## Join Our Team
 
-We are always looking for passionate researchers to join our lab. If you're interested in working at the forefront of computational biology and machine learning, please [contact us](/contact) with your CV and research interests.
+We are always looking for enthusiastic and motivated researchers to join our lab. If you're interested, please check the opportunities page and [contact us](/contact) with your CV and research interests.

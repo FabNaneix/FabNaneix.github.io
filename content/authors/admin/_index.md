@@ -39,7 +39,7 @@ education:
       institution: University of La Rochelle
       year: 2005
 
-\# Skills
+# Skills
 skills:
   - name: Technical
     items:
@@ -91,8 +91,8 @@ social:
   # Link to a PDF of your resume/CV from the About widget.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-\  - icon: brands/cv
-\   link: uploads/cv-jane-smith.pdf
+  - icon: brands/cv
+   link: uploads/cv-jane-smith.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

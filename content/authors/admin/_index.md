@@ -40,37 +40,37 @@ education:
       year: 2005
 
 # Skills
-\skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 100
-        icon: devicon/python
-      - name: Machine Learning
-        description: ''
-        percent: 95
-        icon: hero/chart-line
-      - name: Data Science
-        description: ''
-        percent: 90
-        icon: hero/database
-  - name: Leadership
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Team Management
-        description: ''
-        percent: 95
-        icon: hero/user-group
-      - name: Grant Writing
-        description: ''
-        percent: 90
-        icon: hero/document-text
-      - name: Mentoring
-        description: ''
-        percent: 100
-        icon: hero/academic-cap
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 100
+#        icon: devicon/python
+#      - name: Machine Learning
+#        description: ''
+#        percent: 95
+#        icon: hero/chart-line
+#      - name: Data Science
+#        description: ''
+#        percent: 90
+#        icon: hero/database
+#  - name: Leadership
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Team Management
+#        description: ''
+#        percent: 95
+#        icon: hero/user-group
+#      - name: Grant Writing
+#        description: ''
+#        percent: 90
+#        icon: hero/document-text
+#      - name: Mentoring
+#        description: ''
+#        percent: 100
+#        icon: hero/academic-cap
 
 # Social/Academic Networking
 Follow us:
@@ -92,7 +92,7 @@ Follow us:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: brands/cv
-   link: uploads/cv-jane-smith.pdf
+   link: uploads/CV_Naneix_2025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -107,29 +107,28 @@ user_groups:
 
 ## About the Lab
 
-The Naneix Lab opened at the Rowett Institute, University of Aberdeen in June 2020 and is part of the “Healthy Lifecourse and Nutrition Neuroscience” research theme.
-Our research is focused on the developmental aspects of the cognitive and neurobiological substrates underlying motivated behaviours, and how these processes are impacted by different early-life (childhood, adolescence) experiences, including unbalanced diets.
+Fabien started his own group opened at the Rowett Institute, University of Aberdeen in June 2020 and is part of the “Healthy Lifecourse and Nutrition Neuroscience” research theme.
+The lab research is focused on the developmental aspects of the cognitive and neurobiological substrates underlying motivated behaviours, and how these processes are impacted by different early-life (childhood, adolescence) experiences, including unbalanced diets.
 
 ## Research Vision
 
-The Naneix Lab is investigating 1) the cognitive and neurobiological processes underlying motivated behaviours, 2) how they change throughout development, and 3) how early life experiences such as unbalanced diets may affect cognitive/brain development and lead to pathological states.
+The Naneix Lab is investigating 1) the cognitive and neurobiological processes underlying motivated behaviours, 2) how they change throughout development, and 3) how early life experiences such as unbalanced diets may impact cognitive/brain development and lead to pathological states.
 
-- **Predict protein structures and functions** using deep learning models
-- **Discover new drug targets** through computational screening
-- **Analyze genomic data** to understand disease mechanisms
-- **Develop open-source tools** for the scientific community
+- **Investigating cognitive and neurobiological processes underlying adaptive decision-making** by combining behavioural and circuit neuroscience approaches.
+- **Understanding how these processes change and mature during early life** (childhood, adolescence).
+- **Understanding how early life experiences** (diet, drugs...) may impact cognitive and neurobiological development
+- **Deciphering the role of neuromodulatory systems** in motivated behaviours
 
 ## Leadership & Mentorship
 
-Prof. Smith has mentored over 30 PhD students and postdoctoral researchers, many of whom have gone on to successful careers in academia and industry. She is committed to fostering an inclusive and collaborative research environment where all team members can thrive.
+Dr Naneix actively participates to the mentoring of undergraduate/postgraduate students and ECRs. As a first generation student, he is commited to fostering a supportive and collaborative research envirmenet where everyone can thrive. See more in [Lab expectation] (/lab)
 
-## Awards & Recognition
-
-- 2023 - National Science Foundation CAREER Award
-- 2022 - Chan Zuckerberg Initiative Investigator
-- 2021 - MIT Technology Review Innovator Under 40
-- 2020 - NIH New Innovator Award
+##Awards & Recognition
+#- 2023 - National Science Foundation CAREER Award
+#- 2022 - Chan Zuckerberg Initiative Investigator
+#- 2021 - MIT Technology Review Innovator Under 40
+#- 2020 - NIH New Innovator Award
 
 ## Join Our Team
 
-We are always looking for enthusiastic and motivated researchers to join our lab. If you're interested, please check the opportunities page and [contact us](/contact) with your CV and research interests.
+We are always looking for enthusiastic and motivated researchers and students to join our lab. If you're interested, 1) please check the opportunities page and/or 2) [contact us](/contact) directly with your CV and research interests.

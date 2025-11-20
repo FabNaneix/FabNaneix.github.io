@@ -92,7 +92,7 @@ Follow us:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: brands/cv
-   link: uploads/CV_Naneix_2025.pdf
+    link: uploads/CV_Naneix_2025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
